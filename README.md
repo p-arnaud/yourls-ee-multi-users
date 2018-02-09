@@ -20,7 +20,7 @@ Licence MIT.
 
 Repository
 --------------
-[Plugin's sources](https://github.com/p-arnaud/yourls-ee-mass-import)
+[Plugin's sources](https://github.com/p-arnaud/yourls-ee-multi-users)
 
 One more thing
 --------------
